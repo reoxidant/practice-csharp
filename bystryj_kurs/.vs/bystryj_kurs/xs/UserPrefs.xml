@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{06E40152-7E9A-4B88-9082-DBB3490EF63C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bystryj_kurs/Program.cs">
+    <Files>
+      <File FileName="bystryj_kurs/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.bystryj__kurs FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

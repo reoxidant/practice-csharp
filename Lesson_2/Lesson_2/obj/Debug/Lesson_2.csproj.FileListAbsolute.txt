@@ -1,0 +1,5 @@
+/Users/vitaliishapovalov/Projects/Lesson_2/Lesson_2/bin/Debug/Lesson_2.exe
+/Users/vitaliishapovalov/Projects/Lesson_2/Lesson_2/bin/Debug/Lesson_2.pdb
+/Users/vitaliishapovalov/Projects/Lesson_2/Lesson_2/obj/Debug/Lesson_2.exe
+/Users/vitaliishapovalov/Projects/Lesson_2/Lesson_2/obj/Debug/Lesson_2.pdb
+/Users/vitaliishapovalov/Projects/Lesson_2/Lesson_2/obj/Debug/Lesson_2.csprojAssemblyReference.cache

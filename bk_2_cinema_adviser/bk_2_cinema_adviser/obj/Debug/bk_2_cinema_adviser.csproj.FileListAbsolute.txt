@@ -1,0 +1,5 @@
+/Users/vitaliishapovalov/Projects/bk_2_cinema_adviser/bk_2_cinema_adviser/bin/Debug/bk_2_cinema_adviser.exe
+/Users/vitaliishapovalov/Projects/bk_2_cinema_adviser/bk_2_cinema_adviser/bin/Debug/bk_2_cinema_adviser.pdb
+/Users/vitaliishapovalov/Projects/bk_2_cinema_adviser/bk_2_cinema_adviser/obj/Debug/bk_2_cinema_adviser.csprojAssemblyReference.cache
+/Users/vitaliishapovalov/Projects/bk_2_cinema_adviser/bk_2_cinema_adviser/obj/Debug/bk_2_cinema_adviser.exe
+/Users/vitaliishapovalov/Projects/bk_2_cinema_adviser/bk_2_cinema_adviser/obj/Debug/bk_2_cinema_adviser.pdb
