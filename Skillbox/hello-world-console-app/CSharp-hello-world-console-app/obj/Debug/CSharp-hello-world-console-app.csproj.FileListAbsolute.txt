@@ -1,0 +1,6 @@
+/Users/vitalijsapovalov/Developer/UnityProjects/CSharp-hello-world-console-app/CSharp-hello-world-console-app/bin/Debug/CSharp-hello-world-console-app.exe
+/Users/vitalijsapovalov/Developer/UnityProjects/CSharp-hello-world-console-app/CSharp-hello-world-console-app/bin/Debug/CSharp-hello-world-console-app.pdb
+/Users/vitalijsapovalov/Developer/UnityProjects/CSharp-hello-world-console-app/CSharp-hello-world-console-app/obj/Debug/CSharp-hello-world-console-app.csprojAssemblyReference.cache
+/Users/vitalijsapovalov/Developer/UnityProjects/CSharp-hello-world-console-app/CSharp-hello-world-console-app/obj/Debug/CSharp-hello-world-console-app.csproj.CoreCompileInputs.cache
+/Users/vitalijsapovalov/Developer/UnityProjects/CSharp-hello-world-console-app/CSharp-hello-world-console-app/obj/Debug/CSharp-hello-world-console-app.exe
+/Users/vitalijsapovalov/Developer/UnityProjects/CSharp-hello-world-console-app/CSharp-hello-world-console-app/obj/Debug/CSharp-hello-world-console-app.pdb

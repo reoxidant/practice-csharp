@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-hello-world-console-app", "CSharp-hello-world-console-app\CSharp-hello-world-console-app.csproj", "{E7F2CFC0-066B-464C-9DF1-C835BA557A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F2CFC0-066B-464C-9DF1-C835BA557A72}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E7F2CFC0-066B-464C-9DF1-C835BA557A72}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E7F2CFC0-066B-464C-9DF1-C835BA557A72}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E7F2CFC0-066B-464C-9DF1-C835BA557A72}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
