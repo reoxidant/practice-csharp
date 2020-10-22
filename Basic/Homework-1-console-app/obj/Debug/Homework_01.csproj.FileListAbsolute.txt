@@ -1,0 +1,17 @@
+C:/Users/Sk/source/repos/SkillBoxCodeSource/Lesson_01/Homework_01/bin/Debug/Homework_01.exe.config
+C:/Users/Sk/source/repos/SkillBoxCodeSource/Lesson_01/Homework_01/bin/Debug/Homework_01.exe
+C:/Users/Sk/source/repos/SkillBoxCodeSource/Lesson_01/Homework_01/bin/Debug/Homework_01.pdb
+C:/Users/Sk/source/repos/SkillBoxCodeSource/Lesson_01/Homework_01/obj/Debug/Homework_01.csprojAssemblyReference.cache
+C:/Users/Sk/source/repos/SkillBoxCodeSource/Lesson_01/Homework_01/obj/Debug/Homework_01.csproj.CoreCompileInputs.cache
+C:/Users/Sk/source/repos/SkillBoxCodeSource/Lesson_01/Homework_01/obj/Debug/Homework_01.exe
+C:/Users/Sk/source/repos/SkillBoxCodeSource/Lesson_01/Homework_01/obj/Debug/Homework_01.pdb
+/Volumes/HDD/КУРСЫ/UnityCourses/[Skillbox] Профессия разработчик игр на Unity (2020)/01 Основы работы в С#/1.4 Домашняя работа/Модуль 1 Домашнее Задание/obj/Debug/Homework_01.csproj.CoreCompileInputs.cache
+/Volumes/HDD/КУРСЫ/UnityCourses/[Skillbox] Профессия разработчик игр на Unity (2020)/01 Основы работы в С#/1.4 Домашняя работа/Модуль 1 Домашнее Задание/obj/Debug/Homework_01.exe
+/Volumes/HDD/КУРСЫ/UnityCourses/[Skillbox] Профессия разработчик игр на Unity (2020)/01 Основы работы в С#/1.4 Домашняя работа/Модуль 1 Домашнее Задание/obj/Debug/Homework_01.pdb
+/Users/vitalijsapovalov/Developer/UnityProjects/practice-csharp/Basic/Homework-1-console-app/bin/Debug/Homework_01.exe.config
+/Users/vitalijsapovalov/Developer/UnityProjects/practice-csharp/Basic/Homework-1-console-app/bin/Debug/Homework_01.exe
+/Users/vitalijsapovalov/Developer/UnityProjects/practice-csharp/Basic/Homework-1-console-app/bin/Debug/Homework_01.pdb
+/Users/vitalijsapovalov/Developer/UnityProjects/practice-csharp/Basic/Homework-1-console-app/obj/Debug/Homework_01.csprojAssemblyReference.cache
+/Users/vitalijsapovalov/Developer/UnityProjects/practice-csharp/Basic/Homework-1-console-app/obj/Debug/Homework_01.csproj.CoreCompileInputs.cache
+/Users/vitalijsapovalov/Developer/UnityProjects/practice-csharp/Basic/Homework-1-console-app/obj/Debug/Homework_01.exe
+/Users/vitalijsapovalov/Developer/UnityProjects/practice-csharp/Basic/Homework-1-console-app/obj/Debug/Homework_01.pdb

@@ -1,15 +1,13 @@
 ﻿<Properties StartupConfiguration="{E7F2CFC0-066B-464C-9DF1-C835BA557A72}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="CSharp-hello-world-console-app/Program.cs">
     <Files>
-      <File FileName="CSharp-hello-world-console-app/Program.cs" Line="15" Column="1" />
+      <File FileName="CSharp-hello-world-console-app/Program.cs" Line="9" Column="42" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CSharp-hello-world-console-app" expanded="True">
-            <Node name="CSharp-hello-world-console-app" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="CSharp-hello-world-console-app" expanded="True" selected="True">
+            <Node name="CSharp-hello-world-console-app" expanded="True" />
           </Node>
         </State>
       </Pad>
